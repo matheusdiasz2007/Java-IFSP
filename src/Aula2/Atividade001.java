@@ -8,7 +8,7 @@
  * @author mathe
  */
 
-package atividade.java;
+package Aula2;
 
 public class Atividade001 {
     public static void main(String[] args) {
