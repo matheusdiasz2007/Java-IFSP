@@ -10,7 +10,7 @@
 
 package Aula2;
 
-public class Atividade001 {
+public class A02ex01 {
     public static void main(String[] args) {
         
         String nome = "Matheus Dias Pereira";

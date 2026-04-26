@@ -8,7 +8,7 @@ package Aula2;
  *
  * @author mathe
  */
-public class Atividade003 {
+public class A02ex03 {
     public static void main(String[] args) {
 
         // Verifica se foram passados dois valores
