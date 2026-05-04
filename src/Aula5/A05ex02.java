@@ -4,17 +4,14 @@
  */
 package Aula5;
 
-import java.util.Scanner;
-
 /**
  *
  * @author mathe
  */
-    
-    import java.util.Scanner;
 
-public class A05ex01 {
+   import java.util.Scanner;
 
+public class A05ex02 {
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
 
@@ -26,7 +23,7 @@ public class A05ex01 {
         for (int i = 0; i < 8; i++) {
             for (int j = 0; j < 8; j++) {
                 matriz[i][j] = i * 8 + j + 1;
-                System.out.printf("%3d ", matriz[i][j]);
+                System.out.printf("%4d", matriz[i][j]);
             }
             System.out.println();
         }
@@ -37,7 +34,9 @@ public class A05ex01 {
         for (int i = 0; i < 8; i++) {
             for (int j = 0; j < 8; j++) {
                 if (matriz[i][j] % 2 == 0) {
-                    matriz[i][j] = valor;
+                    matriz[i][j] += valor;
+                } else {
+                    matriz[i][j] -= valor;
                 }
             }
         }
@@ -46,7 +45,7 @@ public class A05ex01 {
 
         for (int i = 0; i < 8; i++) {
             for (int j = 0; j < 8; j++) {
-                System.out.printf("%3d ", matriz[i][j]);
+                System.out.printf("%4d", matriz[i][j]);
             }
             System.out.println();
         }
@@ -54,5 +53,3 @@ public class A05ex01 {
         entrada.close();
     }
 }
-
-

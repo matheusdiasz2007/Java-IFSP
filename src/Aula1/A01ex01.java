@@ -14,7 +14,8 @@ public class A01ex01 {
      *
      * @param args
      */
-    public static void main(string[] args) {
+  
+    public static void main(String[] args) {
         System.out.println("Matheus Dias Pereira");
 }
 
