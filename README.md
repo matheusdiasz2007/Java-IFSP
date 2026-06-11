@@ -46,7 +46,7 @@ O principal objetivo deste projeto é registrar minha evolução nos estudos de 
 
 ---
 
-## 🚀 Aula 1 - Primeiro Programa em Java
+## ⌨️ Aula 1 - Primeiro Programa em Java
 
 Na **Aula 1**, foi praticada a estrutura inicial de uma aplicação Java utilizando o método `main`.
 
@@ -362,4 +362,7 @@ O repositório serve como um registro do meu aprendizado e da minha evolução a
 ## 💻 Desenvolvido por
 
 **Matheus Dias Pereira**  
+
 🎓 Software Engineer 
+
+---
