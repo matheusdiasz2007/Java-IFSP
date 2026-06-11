@@ -1,244 +1,296 @@
-# Atividade Java - Aprendizados em ProgramaA?A?o Orientada a Objetos
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="150" alt="Java Logo">
+</p>
 
-Este repositA?rio reA?ne atividades desenvolvidas em Java durante as aulas, com uma evoluA?A?o gradual desde os fundamentos da linguagem atA? os primeiros conceitos de ProgramaA?A?o Orientada a Objetos (POO).
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-POO-orange?logo=java">
+  <img src="https://img.shields.io/badge/Status-%20Concluído-success">
+  <img src="https://img.shields.io/badge/IFSP-Extensão-blue">
+</p>
 
-O projeto foi organizado por aulas dentro da pasta `src`, permitindo acompanhar a sequA?ncia dos conteA?dos estudados e praticados.
+# ☕ Atividades Java - Aprendizados em Programação Orientada a Objetos
 
-## Objetivo do projeto
+---
 
-O objetivo principal deste projeto A? registrar meus aprendizados em Java, praticando:
+## 📚 Sobre o Projeto
 
-- Estrutura bA?sica de um programa Java.
-- DeclaraA?A?o e uso de variA?veis.
-- Entrada e saA?da de dados.
-- Operadores aritmA?ticos.
-- Estruturas condicionais.
-- Estruturas de repetiA?A?o.
-- ManipulaA?A?o de textos.
-- Matrizes.
-- MA?todos.
-- Classes e objetos.
-- Construtores.
-- Relacionamento entre classes.
-- HeranA?a.
-- Uso de datas com `LocalDate`.
-- Tratamento de erros com `try/catch`.
+Este repositório reúne atividades desenvolvidas em **Java** durante as aulas da graduação, apresentando uma evolução gradual desde os fundamentos da linguagem até os primeiros conceitos de **Programação Orientada a Objetos (POO)**.
 
-## Estrutura das aulas
+O projeto foi organizado por aulas dentro da pasta `src`, permitindo acompanhar a sequência dos conteúdos estudados e praticados ao longo do aprendizado.
 
-### Aula 1 - Primeiro programa em Java
+---
 
-Na `Aula1`, foi praticada a estrutura inicial de uma classe Java com o mA?todo `main`.
+## 🎯 Objetivo do Projeto
 
-Aprendizados:
+O principal objetivo deste projeto é registrar minha evolução nos estudos de Java, praticando conceitos fundamentais como:
 
-- CriaA?A?o de uma classe.
-- Uso do mA?todo `public static void main`.
-- ImpressA?o de mensagens com `System.out.println`.
+- Estrutura básica de programas Java;
+- Declaração e utilização de variáveis;
+- Entrada e saída de dados;
+- Operadores aritméticos;
+- Estruturas condicionais;
+- Estruturas de repetição;
+- Manipulação de textos;
+- Matrizes;
+- Métodos;
+- Classes e objetos;
+- Construtores;
+- Relacionamento entre classes;
+- Herança;
+- Manipulação de datas com `LocalDate`;
+- Tratamento de exceções com `try/catch`.
+
+---
+
+# 📂 Estrutura das Aulas
+
+---
+
+## 🚀 Aula 1 - Primeiro Programa em Java
+
+Na **Aula 1**, foi praticada a estrutura inicial de uma aplicação Java utilizando o método `main`.
+
+### Aprendizados
+
+- Criação de classes;
+- Uso do método `public static void main`;
+- Impressão de mensagens com `System.out.println`;
 - Primeiro contato com pacotes (`package`).
 
-Arquivo principal:
+### Arquivo
 
-- `A01ex01.java`
+```text
+A01ex01.java
+```
 
-## Aula 2 - VariA?veis, operadores e entrada de dados
+---
 
-Na `Aula2`, foram praticados conceitos bA?sicos de variA?veis, tipos de dados e cA?lculos.
+## 🔢 Aula 2 - Variáveis, Operadores e Entrada de Dados
 
-Aprendizados:
+Na **Aula 2**, foram praticados conceitos básicos de variáveis, tipos de dados e cálculos.
 
-- Uso de `String`, `int` e `double`.
-- OperaA?A?es matemA?ticas como soma, produto, mA?dia e resto da divisA?o.
-- Entrada de dados com `Scanner`.
-- ConversA?o de argumentos recebidos pelo `args`.
-- ExibiA?A?o de resultados no console.
+### Aprendizados
 
-Arquivos:
+- Uso de `String`, `int` e `double`;
+- Operações matemáticas;
+- Cálculo de média e resto da divisão;
+- Entrada de dados com `Scanner`;
+- Conversão de argumentos recebidos via `args`;
+- Exibição de resultados no console.
 
-- `A02ex01.java`
-- `A02ex02.java`
-- `A02ex03.java`
+### Arquivos
 
-## Aula 3 - Entrada grA?fica e estruturas condicionais
+```text
+A02ex01.java
+A02ex02.java
+A02ex03.java
+```
 
-Na `Aula3`, os exercA?cios evoluA?ram para entrada e saA?da grA?fica usando `JOptionPane`, alA?m da aplicaA?A?o de decisA?es com `if`, `else if` e `else`.
+---
 
-Aprendizados:
+## 🖥️ Aula 3 - Entrada Gráfica e Estruturas Condicionais
 
-- Entrada de dados com caixas de diA?logo.
-- ConversA?o de texto para nA?mero com `Double.parseDouble`.
-- CA?lculo de A?rea.
-- AplicaA?A?o de regras de classificaA?A?o.
-- Uso de condicionais para definir resultados.
+Na **Aula 3**, os exercícios evoluíram para entrada e saída gráfica utilizando `JOptionPane`.
 
-Arquivos:
+### Aprendizados
 
-- `A03ex01.java`
-- `A03ex02.java`
-- `A03ex03.java`
+- Entrada de dados por caixas de diálogo;
+- Conversão de texto para número com `Double.parseDouble`;
+- Cálculo de área;
+- Aplicação de regras de classificação;
+- Estruturas `if`, `else if` e `else`.
 
-## Aula 4 - Condicionais, repetiA?A?o e manipulaA?A?o de texto
+### Arquivos
 
-Na `Aula4`, foram praticadas estruturas de controle mais completas.
+```text
+A03ex01.java
+A03ex02.java
+A03ex03.java
+```
 
-Aprendizados:
+---
 
-- LaA?o `for` para contagem progressiva.
-- Estrutura `switch` para criaA?A?o de uma calculadora.
-- ValidaA?A?o de divisA?o por zero.
-- Uso de `Math.pow` para potA?ncia.
-- ManipulaA?A?o de texto com `replaceAll`.
-- Uso de `contains` para verificar palavras em uma frase.
+## 🔀 Aula 4 - Condicionais, Repetição e Manipulação de Texto
 
-Arquivos:
+Na **Aula 4**, foram utilizados recursos mais avançados de controle de fluxo.
 
-- `A04ex01.java`
-- `A04ex02.java`
-- `A04ex03.java`
-- `A04ex04.java`
+### Aprendizados
 
-## Aula 5 - Matrizes
+- Laço `for`;
+- Estrutura `switch`;
+- Validação de divisão por zero;
+- Uso de `Math.pow`;
+- Manipulação de texto com `replaceAll`;
+- Busca de palavras utilizando `contains`.
 
-Na `Aula5`, os exercA?cios trabalharam com matrizes bidimensionais.
+### Arquivos
 
-Aprendizados:
+```text
+A04ex01.java
+A04ex02.java
+A04ex03.java
+A04ex04.java
+```
 
-- CriaA?A?o de matriz `int[][]`.
-- Preenchimento de matriz com laA?os aninhados.
-- ExibiA?A?o formatada de valores.
-- AlteraA?A?o de elementos pares e A?mpares.
-- Uso de lA?gica condicional dentro de uma matriz.
+---
 
-Arquivos:
+## 🧮 Aula 5 - Matrizes
 
-- `A05ex01.java`
-- `A05ex02.java`
+Na **Aula 5**, foram desenvolvidas atividades utilizando matrizes bidimensionais.
 
-## Aula 6 - MA?todos e reaproveitamento de cA?digo
+### Aprendizados
 
-Na `Aula6`, foi iniciado o estudo de mA?todos, separando responsabilidades em blocos reutilizA?veis.
+- Criação de matrizes `int[][]`;
+- Preenchimento com laços aninhados;
+- Exibição formatada;
+- Alteração de elementos pares e ímpares;
+- Aplicação de lógica condicional em matrizes.
 
-Aprendizados:
+### Arquivos
 
-- CriaA?A?o de mA?todos `static`.
-- MA?todos com retorno, como `String buscarNome(int codigo)`.
-- MA?todos sem retorno, como `void mostrarMaior`.
-- Passagem de parA?metros.
-- Sobrecarga de mA?todos com o mesmo nome e parA?metros diferentes.
-- SeparaA?A?o de lA?gica em uma classe auxiliar, como `Calendario`.
-- Reaproveitamento de mA?todos entre classes.
+```text
+A05ex01.java
+A05ex02.java
+```
 
-Arquivos:
+---
 
-- `A06ex01.java`
-- `A06ex02.java`
-- `A06ex03.java`
-- `A06ex04.java`
-- `A06ex05.java`
-- `A06ex06.java`
-- `Calendario.java`
+## ⚙️ Aula 6 - Métodos e Reaproveitamento de Código
 
-## Aula 7 - Classes, objetos, construtores e associaA?A?o
+Na **Aula 6**, iniciou-se o estudo de métodos para organizar e reutilizar código.
 
-Na `Aula7`, o projeto entra mais diretamente em ProgramaA?A?o Orientada a Objetos.
+### Aprendizados
 
-Foram criadas as classes `Fabricante` e `Produto`, alA?m de uma classe principal para testar os objetos.
+- Métodos `static`;
+- Métodos com retorno;
+- Métodos sem retorno;
+- Passagem de parâmetros;
+- Sobrecarga de métodos;
+- Classe auxiliar `Calendario`;
+- Reutilização de código.
 
-Aprendizados de POO:
+### Arquivos
 
-- Uma classe representa um modelo para criar objetos.
-- Um objeto A? uma instA?ncia de uma classe.
-- A classe `Fabricante` possui o atributo `nome`.
-- A classe `Produto` possui os atributos `nome`, `modelo` e `fabricante`.
-- Foram criados construtores vazios e construtores com parA?metros.
-- O uso de `this` ajuda a diferenciar atributos da classe dos parA?metros recebidos.
-- A classe `Produto` se relaciona com a classe `Fabricante`, mostrando associaA?A?o entre objetos.
+```text
+A06ex01.java
+A06ex02.java
+A06ex03.java
+A06ex04.java
+A06ex05.java
+A06ex06.java
+Calendario.java
+```
 
-Exemplo de conceito praticado:
+---
+
+## 🏗️ Aula 7 - Classes, Objetos, Construtores e Associação
+
+Nesta aula, foram introduzidos conceitos fundamentais da Programação Orientada a Objetos.
+
+### Aprendizados
+
+- Criação de classes e objetos;
+- Atributos e construtores;
+- Uso da palavra-chave `this`;
+- Associação entre objetos;
+- Modelagem de relacionamentos entre classes.
+
+### Exemplo
 
 ```java
 Fabricante samsung = new Fabricante("Samsung");
 Produto hd = new Produto("HD", "SSD 1TB", samsung);
 ```
 
-Esse exemplo mostra que um produto pode possuir um fabricante, ou seja, um objeto pode guardar referA?ncia para outro objeto.
+### Arquivos
 
-Arquivos:
+```text
+Fabricante.java
+Produto.java
+Main.java
+```
 
-- `Fabricante.java`
-- `Produto.java`
-- `main.java`
+---
 
-## Aula 8 - MA?todos de instA?ncia e heranA?a
+## 🚗 Aula 8 - Métodos de Instância e Herança
 
-Na `Aula8`, foram praticados conceitos importantes de POO, como mA?todos de instA?ncia e heranA?a.
+Nesta aula, foram explorados conceitos importantes da orientação a objetos.
 
-Aprendizados de POO:
+### Aprendizados
 
-- CriaA?A?o de classes com comportamentos prA?prios.
-- MA?todos de instA?ncia, como `ligar`, `desacelerando` e `acelerar`.
-- CriaA?A?o da classe `Veiculo`.
-- CriaA?A?o da classe `Moto` herdando de `Veiculo` com `extends`.
-- Entendimento de que uma classe filha pode herdar comportamentos de uma classe pai.
+- Métodos de instância;
+- Classe `Veiculo`;
+- Herança com `extends`;
+- Reutilização de comportamentos;
+- Especialização de classes.
 
-Exemplo de heranA?a:
+### Exemplo
 
 ```java
 class Moto extends Veiculo {
 }
 ```
 
-Nesse caso, `Moto` herda o comportamento de `Veiculo`, como o mA?todo `acelerar`.
+### Arquivos
 
-Arquivos:
+```text
+Veiculo.java
+Carro.java
+```
 
-- `Veiculo.java`
-- `Carro.java`
+---
 
-## Aula 9 - Datas, repetiA?A?o e tratamento de erro
+## 📅 Aula 9 - Datas e Tratamento de Exceções
 
-Na `Aula9`, foi desenvolvido um programa para listar o perA?odo de fA?rias de um funcionA?rio.
+Na **Aula 9**, foi desenvolvido um sistema para exibição de férias de funcionários.
 
-Aprendizados:
+### Aprendizados
 
-- Uso de `LocalDate` para trabalhar com datas.
-- FormataA?A?o de datas com `DateTimeFormatter`.
-- ConversA?o de texto para data.
-- ValidaA?A?o de data inicial e final.
-- Uso de `while` para percorrer um intervalo de datas.
-- Tratamento de erro com `try/catch`.
-- Captura de `DateTimeParseException` para datas invA?lidas.
+- Uso de `LocalDate`;
+- Formatação com `DateTimeFormatter`;
+- Conversão de texto para data;
+- Estruturas de repetição;
+- Tratamento de exceções;
+- Uso de `DateTimeParseException`.
 
-Arquivo:
+### Arquivo
 
-- `FeriasFuncionario.java`
+```text
+FeriasFuncionario.java
+```
 
-## Principais aprendizados em ProgramaA?A?o Orientada a Objetos
+---
 
-Com base nos arquivos das aulas, os principais conceitos de POO praticados foram:
+# 🧠 Principais Conceitos de POO Aplicados
 
-### Classe
+## 📦 Classe
 
-Classe A? um modelo que define atributos e comportamentos. No projeto, exemplos de classes sA?o:
+Uma classe funciona como um modelo para criação de objetos.
+
+Exemplos:
 
 - `Produto`
 - `Fabricante`
-- `Carro`
 - `Veiculo`
+- `Carro`
 - `Calendario`
 
-### Objeto
+---
 
-Objeto A? uma instA?ncia criada a partir de uma classe. Na `Aula7`, foram criados objetos como:
+## 🎯 Objeto
+
+Objetos são instâncias criadas a partir de classes.
 
 ```java
 Fabricante logitech = new Fabricante("Logitech");
 Produto mouse = new Produto("Mouse", "M170", logitech);
 ```
 
-### Atributos
+---
 
-Atributos sA?o caracterA?sticas de uma classe. Por exemplo, em `Produto`:
+## 🏷️ Atributos
+
+Representam as características de uma classe.
 
 ```java
 String nome;
@@ -246,19 +298,25 @@ String modelo;
 Fabricante fabricante;
 ```
 
-### MA?todos
+---
 
-MA?todos representam aA?A?es ou comportamentos. Exemplos:
+## ⚡ Métodos
 
-- `buscarNome`
-- `mostrarMaior`
-- `nomeDiaSemana`
-- `ligar`
-- `acelerar`
+Representam ações ou comportamentos.
 
-### Construtores
+Exemplos:
 
-Construtores sA?o usados para inicializar objetos. Na classe `Produto`, foi usado um construtor com parA?metros:
+- `buscarNome()`
+- `mostrarMaior()`
+- `nomeDiaSemana()`
+- `ligar()`
+- `acelerar()`
+
+---
+
+## 🛠️ Construtores
+
+Responsáveis por inicializar objetos.
 
 ```java
 public Produto(String nome, String modelo, Fabricante fabricante) {
@@ -268,22 +326,41 @@ public Produto(String nome, String modelo, Fabricante fabricante) {
 }
 ```
 
-### AssociaA?A?o
+---
 
-AssociaA?A?o acontece quando uma classe se relaciona com outra. No projeto, `Produto` possui um `Fabricante`, mostrando que objetos podem se conectar.
+## 🔗 Associação
 
-### HeranA?a
+Ocorre quando uma classe se relaciona com outra.
 
-HeranA?a permite que uma classe aproveite caracterA?sticas e comportamentos de outra. Na `Aula8`, `Moto` herda de `Veiculo`:
+```text
+Produto → Fabricante
+```
+
+---
+
+## 🧬 Herança
+
+Permite reutilizar atributos e comportamentos de outra classe.
 
 ```java
 class Moto extends Veiculo {
 }
 ```
 
-## ConclusA?o
+---
 
-Este projeto mostra minha evoluA?A?o nos estudos de Java. Comecei com comandos simples de saA?da no console, avancei para variA?veis, entrada de dados, cA?lculos, condicionais, laA?os, matrizes e mA?todos, atA? chegar aos primeiros pilares da ProgramaA?A?o Orientada a Objetos.
+# 🎓 Conclusão
 
-As aulas finais mostram a importA?ncia de organizar o cA?digo em classes, criar objetos, usar construtores, relacionar classes entre si e aplicar heranA?a. Esses conceitos sA?o essenciais para desenvolver sistemas Java mais organizados, reutilizA?veis e fA?ceis de manter.
+Este projeto representa minha evolução nos estudos de **Java**, desde os primeiros programas executados no console até a aplicação dos conceitos fundamentais da **Programação Orientada a Objetos**.
 
+Ao longo das atividades, foram praticados conceitos como variáveis, estruturas condicionais, laços de repetição, matrizes, métodos, classes, objetos, construtores, associação e herança. Esses conhecimentos são essenciais para o desenvolvimento de aplicações Java mais organizadas, reutilizáveis e de fácil manutenção.
+
+O repositório serve como um registro do meu aprendizado e da minha evolução acadêmica na área de desenvolvimento de software.
+
+---
+
+## 💻 Desenvolvido por
+
+**Matheus Dias Pereira**  
+🎓 Ciência da Computação  
+☕ Estudando Java e Programação Orientada a Objetos (POO)
