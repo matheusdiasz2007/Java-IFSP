@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/IFSP-Extensão-blue">
 </p>
 
-# ☕ Atividades Java - prendizados em Programação Orientada a Objetos
+# ☕ Atividades Java - Programação Orientada a Objetos
 
 ---
 
