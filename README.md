@@ -362,5 +362,4 @@ O repositório serve como um registro do meu aprendizado e da minha evolução a
 ## 💻 Desenvolvido por
 
 **Matheus Dias Pereira**  
-🎓 Ciência da Computação  
-☕ Estudando Java e Programação Orientada a Objetos (POO)
+🎓 Software Engineer 
