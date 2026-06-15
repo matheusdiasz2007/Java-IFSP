@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-POO-purple?logo=java">
+  <img src="https://img.shields.io/badge/Java-POO-red?logo=java">
   <img src="https://img.shields.io/badge/Status-%20Concluído-success">
   <img src="https://img.shields.io/badge/IFSP-Extensão-blue">
 </p>
