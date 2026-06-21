@@ -371,6 +371,6 @@ O repositório serve como um registro do meu aprendizado e da minha evolução a
 
 🔗 Linkedin https://www.linkedin.com/in/matheus-dias-pereira-th2007/
 
-⭐ Projeto desenvolvido para fins acadêmicos e prática de desenvolvimento web.
+⭐ Projeto desenvolvido para fins acadêmicos em Progamação Orientada a Objetos.
 
 ---
