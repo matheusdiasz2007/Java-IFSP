@@ -365,8 +365,6 @@ O repositório serve como um registro do meu aprendizado e da minha evolução a
 
 🎓 Engineer Software
 
-💻 Desenvolvedor Front-End
-
 🔗 GitHub: https://github.com/matheusdiasz2007
 
 🔗 Linkedin https://www.linkedin.com/in/matheus-dias-pereira-th2007/
